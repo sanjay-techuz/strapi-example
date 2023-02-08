@@ -46,7 +46,7 @@
           - key: STRAPI_URL_BASE
             fromService:
               type: web
-              name: our-works-api
+              name: productivity-tips-api
               envVarKey: RENDER_EXTERNAL_URL
     
     databases:
