@@ -4,7 +4,7 @@
         env: node
         plan: free
         # Update the following line with your Strapi GitHub repo
-        repo: https://github.com/sanjay-techuz/strapi-example.git
+        repo: https://github.com/sanjay-techuz/strapi-example
         branch: main
         buildCommand: yarn install && yarn build
         startCommand: yarn start
@@ -38,7 +38,7 @@
         env: node
         plan: free
         # Update the following line with your Remix GitHub repo
-        repo: https://github.com/sanjay-techuz/strapiconf2022-workshop-remix.git
+        repo: https://github.com/sanjay-techuz/strapiconf2022-workshop-remix
         branch: master
         buildCommand: npm install && npm run build
         startCommand: npm start
