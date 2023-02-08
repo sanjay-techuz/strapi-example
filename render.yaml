@@ -1,6 +1,6 @@
     services:
       - type: web
-        name: our-works
+        name: productivity-tips-api
         env: node
         plan: free
         # Update the following line with your Strapi GitHub repo
@@ -34,7 +34,7 @@
             generateValue: true
     
       - type: web
-        name: our-works-web
+        name: productivity-tips-web
         env: node
         plan: free
         # Update the following line with your Remix GitHub repo
